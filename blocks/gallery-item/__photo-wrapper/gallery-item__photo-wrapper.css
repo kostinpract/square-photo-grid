@@ -1,0 +1,12 @@
+.gallery-item__photo-wrapper {
+  grid-area: photo;
+  position: relative;
+}
+
+.gallery-item__photo-wrapper::before {
+  content: "";
+  display: block;
+  height: 0;
+  width: 0;
+  padding-bottom: 100%;
+}
