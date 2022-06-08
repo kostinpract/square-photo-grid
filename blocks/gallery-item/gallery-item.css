@@ -1,0 +1,17 @@
+.gallery-item {
+  display: grid;
+  grid-template-areas:
+    "photo photo"
+    "title year";
+  grid-template-rows: 1fr auto;
+  align-items: center;
+  background-color: #fff;
+  color: #333;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+
+
+
+

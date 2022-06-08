@@ -1,0 +1,13 @@
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+
+@import url(../blocks/main/main.css);
+
+@import url(../blocks/gallery/gallery.css);
+
+@import url(../blocks/gallery-item/gallery-item.css);
+@import url(../blocks/gallery-item/__photo/gallery-item__photo.css);
+@import url(../blocks/gallery-item/__title/gallery-item__title.css);
+@import url(../blocks/gallery-item/__year/gallery-item__year.css);
