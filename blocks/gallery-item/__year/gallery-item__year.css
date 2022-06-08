@@ -1,0 +1,5 @@
+.gallery-item__year {
+  grid-area: year;
+  justify-self: end;
+  align-self: end;
+}
