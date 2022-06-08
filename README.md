@@ -41,7 +41,7 @@
 
 ```css
 .gallery-item__photo {
-  ...
+  ...;
   width: 100%;
   aspect-ratio: 1/1;
 }
